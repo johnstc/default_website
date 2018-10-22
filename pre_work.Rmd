@@ -23,6 +23,8 @@ ggplot(iris, aes(Species, Sepal.Length))+
 
 ## Session 2
 
+Today we worked on GitHub
+
 ## Session 3
 
 ## Session 4
