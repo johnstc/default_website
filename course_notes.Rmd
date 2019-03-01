@@ -12,6 +12,7 @@ You can detail what you learned in the session within these pages. You can also 
 # Session 1
 
 # Session 2
+In this session we created our git pages.
 
 # Session 3
 
